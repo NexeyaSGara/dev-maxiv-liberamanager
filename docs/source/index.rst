@@ -1,0 +1,2 @@
+.. automodule:: LiberaManager
+    :members: LiberaManager
